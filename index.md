@@ -24,7 +24,12 @@ api = tweepy.API(auth, wait_on_rate_limit=True,
 
 api.verify_credentials()
 ```
-By setting `wait_on_rate_limit` to `True`, any time the API rate limit is reached, your program will automatically pause until the rate limit resets.
+By setting `wait_on_rate_limit` to `True`, any time the API rate limit is reached, your program will automatically pause until the rate limit resets.  To check that you are connected to the API, you can try a query, like `get_user` to see that it returns what you expect.
+
+```
+user = api.get_user("extremefriday")
+```
+Then `user.screen_name` should return `extremefriday`.  To see the full capabilities of Tweepy, you can read the [docuementation](https://docs.tweepy.org/en/latest/index.html).  
 
 ### Command Line API Access with twarc
 
