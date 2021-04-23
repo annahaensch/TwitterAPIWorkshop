@@ -6,7 +6,7 @@ Before you can access the Twitter API you'll need to have a Twitter developer ac
 
 Once you've been granted access, you can login to your [Developer Dashboard](https://developer.twitter.com/en/portal/dashboard) to your retrieve your access tokens. 
 
-![tokens.jpg](https://drive.google.com/uc?id=176hMZNt8NF0lRO5wtVQkEjfHuwugK_Qj)
+![tokens.jpg](assets/img/tokens.jpg)
 
 ### Python API Access with Tweepy
 
