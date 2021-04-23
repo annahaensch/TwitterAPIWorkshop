@@ -16,20 +16,13 @@ Tweepy is a Python library for accessing the Twitter API.  You can install Tweep
 
 ```
 import tweepy 
-import logging 
-
-logger = logger.get_Logger()
 
 auth = tweepy.OAuthHandler(CONSUMER_KEY, SECRET_KEY)
 auth.set_access_token(ACCESS_TOKEN, ACCESS_TOKEN_SECRET)
 api = tweepy.API(auth, wait_on_rate_limit=True, 
         wait_on_rate_limit_notify=True)
-try:
-    api.verify_credentials()
-except Exception as e:
-    logger.error("Error creating API", exc_info=True)
-    raise e
-logger.info("API created")
+
+api.verify_credentials()
 ```
 By setting `wait_on_rate_limit` to `True`, any time the API rate limit is reached, your program will automatically pause until the rate limit resets.
 
