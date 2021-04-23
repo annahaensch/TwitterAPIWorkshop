@@ -12,6 +12,27 @@ Be sure to copy down your keys and tokens into text file where you can find them
 
 ### Python API Access with Tweepy
 
+Tweepy is a Python library for accessing the Twitter API.  You can install Tweepy by following this [installation guide](https://docs.tweepy.org/en/latest/install.html).  Once Tweepy is installed, we will use it to connect to the Twitter API.
+
+```
+import tweepy 
+import logging 
+
+logger = logger.get_Logger()
+
+auth = tweepy.OAuthHandler(CONSUMER_KEY, SECRET_KEY)
+auth.set_access_token(ACCESS_TOKEN, ACCESS_TOKEN_SECRET)
+api = tweepy.API(auth, wait_on_rate_limit=True, 
+        wait_on_rate_limit_notify=True)
+try:
+    api.verify_credentials()
+except Exception as e:
+    logger.error("Error creating API", exc_info=True)
+    raise e
+logger.info("API created")
+```
+By setting `wait_on_rate_limit` to `True`, any time the API rate limit is reached, your program will automatically pause until the rate limit resets.
+
 ### Command Line API Access with twarc
 
-You can also access the Twitter API through the command line using [twarc](https://github.com/DocNow/twarc).  You can install twarc using the [installation guide](https://twarc-project.readthedocs.io/en/latest/).  
+You can also access the Twitter API through the command line using [twarc](https://github.com/DocNow/twarc).  You can install twarc by following this [installation guide](https://twarc-project.readthedocs.io/en/latest/).  
