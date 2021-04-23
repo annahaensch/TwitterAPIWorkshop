@@ -31,7 +31,7 @@ To check that you are connected to the API, you can try a query, like `get_user`
 ```
 user = api.get_user("extremefriday")
 ```
-Then `user.screen_name` should return `extremefriday`.  To see the full capabilities of Tweepy, you can read the [docuementation](https://docs.tweepy.org/en/latest/index.html).  
+Then `user.screen_name` should return `extremefriday`.  To see the full capabilities of Tweepy, you can read the [documentation](https://docs.tweepy.org/en/latest/index.html).  
 
 ### Command Line API Access with twarc
 
