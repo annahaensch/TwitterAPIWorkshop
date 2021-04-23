@@ -8,7 +8,7 @@ Once you've been granted access, you can login to your [Developer Dashboard](htt
 
 ![tokens.jpg](assets/img/tokens.jpg)
 
-Be sure to copy down your keys and tokens into text file where you can find them later. 
+Be sure to copy down your keys and tokens into a text file where you can find them later. 
 
 ### Python API Access with Tweepy
 
