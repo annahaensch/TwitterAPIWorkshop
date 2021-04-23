@@ -1,8 +1,12 @@
+# The Twitter API
+
 ### Getting Twitter API Credentials
 
 Before you can access the Twitter API you'll need to have a Twitter developer account.  You can apply for access as an academic researcher at the [Twitter Developer Portal](https://developer.twitter.com/en/solutions/academic-research/products-for-researchers).  This process usually take several days.
 
 Once you've been granted access, you can login to your [Developer Dashboard](https://developer.twitter.com/en/portal/dashboard) to set your retrieve your access tokens. 
+
+### Python API Access with Tweepy
 
 ### Command Line API Access with twarc
 
