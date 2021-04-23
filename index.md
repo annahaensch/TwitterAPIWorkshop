@@ -12,7 +12,7 @@ Be sure to copy down your keys and tokens into text file where you can find them
 
 ### Python API Access with Tweepy
 
-Tweepy is a Python library for accessing the Twitter API.  You can install Tweepy by following this [installation guide](https://docs.tweepy.org/en/latest/install.html).  Once Tweepy is installed, we will use it to connect to the Twitter API.
+Tweepy is a Python library for accessing the Twitter API.  You can install Tweepy by following this [installation guide](https://docs.tweepy.org/en/latest/install.html).  Once Tweepy is installed, we will use it to connect to the Twitter API.  Replacing the values below with your own keys and tokens, you can connect to the API by executing the following in a Jupyter notebook:
 
 ```
 import tweepy 
@@ -26,12 +26,13 @@ api.verify_credentials()
 ```
 By setting `wait_on_rate_limit` to `True`, any time the API rate limit is reached, your program will automatically pause until the rate limit resets.  
 
-To check that you are connected to the API, you can try a query, like `get_user` to see that it returns what you expect.
+To check that you are connected to the API, you can try a query, like `api.get_user()` to see that it returns what you expect:
 
 ```
 user = api.get_user("extremefriday")
+user.screen_name == "extremefriday"
 ```
-Then `user.screen_name` should return `extremefriday`.  To see the full capabilities of Tweepy, you can read the [documentation](https://docs.tweepy.org/en/latest/index.html).  
+To see the full capabilities of Tweepy, you can read the [documentation](https://docs.tweepy.org/en/latest/index.html).  
 
 ### Command Line API Access with twarc
 
