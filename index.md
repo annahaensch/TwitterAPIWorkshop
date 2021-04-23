@@ -4,13 +4,13 @@ As Twitter has cemented itself as a critical component of public discourse it ha
 
 In this 2-hour [Tufts DISC](https://disc.tufts.edu/) workshop we will learn some of the basics of API querying, we will have an opportunity to retrieve Twitter data using the Twitter API, we will do some exploratory analysis of Twitter data, and we will do this all in a data scientist approved Python environment. No prior knowledge of Python will be assumed. It is suggested that participants set up a Twitter developer account prior to the workshop, using the instructions below, but for those who are unable to do so, credentials for a group account will also be made available for the duration of the workshop.
 
-### Getting Twitter API Credentials
+### Setting Up Your Developer Account
 
 Before you can access the Twitter API you'll need to have a Twitter developer account.  You can apply for access as an academic researcher at the [Twitter Developer Portal](https://developer.twitter.com/en/solutions/academic-research/products-for-researchers).  This process usually take several days.
 
 ![setup.jpg](assets/img/setup.jpg)
 
-Once you've been granted access, you can login to your [Developer Dashboard](https://developer.twitter.com/en/portal/dashboard) to your retrieve your access tokens. 
+Once you've been granted access, you can login to your [Developer Dashboard](https://developer.twitter.com/en/portal/dashboard) to retrieve your access tokens. 
 
 ![tokens.jpg](assets/img/tokens.jpg)
 
