@@ -2,7 +2,7 @@
 
 As Twitter has cemented itself as a critical component of public discourse it has also become a vital tool for researchers across a variety of disciplines. The Twitter API provides an avenue for these researchers to access the contents of the social media platform from up-to-date tweet content, historical tweet interaction timelines, and follower network relationships.  
 
-In this 2-hour workshop we will learn some of the basics of API querying, we will have an opportunity to retrieve Twitter data using the Twitter API, we will do some exploratory analysis of Twitter data, and we will do this all in a data scientist approved Python environment. No prior knowledge of Python will be assumed. It is suggested that participants set up a Twitter developer account prior to the workshop, but for those who are unable to do so, credentials for a group account will also be made available for the duration of the workshop.
+In this 2-hour [Tufts DISC](https://disc.tufts.edu/) workshop we will learn some of the basics of API querying, we will have an opportunity to retrieve Twitter data using the Twitter API, we will do some exploratory analysis of Twitter data, and we will do this all in a data scientist approved Python environment. No prior knowledge of Python will be assumed. It is suggested that participants set up a Twitter developer account prior to the workshop, but for those who are unable to do so, credentials for a group account will also be made available for the duration of the workshop.
 
 ### Getting Twitter API Credentials
 
