@@ -6,7 +6,7 @@ In this 2-hour [Tufts DISC](https://disc.tufts.edu/) workshop we will learn some
 
 ## Workshop Materials
 
-* Slides
+* [Slides](https://docs.google.com/presentation/d/1dBEx5eJ8mGcZONrVq_vRUbQNZjrsXSdL8hlUajHLLNM/edit?usp=sharing)
 * Google Colab Notebook
 
 ## Setting Up Your Developer Account
