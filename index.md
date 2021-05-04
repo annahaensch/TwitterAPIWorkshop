@@ -4,7 +4,7 @@ As Twitter has cemented itself as a critical component of public discourse it ha
 
 In this 2-hour [Tufts DISC](https://disc.tufts.edu/) workshop we will learn some of the basics of API querying, we will have an opportunity to retrieve Twitter data using the Twitter API, we will do some exploratory analysis of Twitter data, and we will do this all in a data scientist approved Python environment. No prior knowledge of Python will be assumed. It is suggested that participants set up a Twitter developer account prior to the workshop, using the instructions below, but for those who are unable to do so, credentials for a group account will also be made available for the duration of the workshop.
 
-### Setting Up Your Developer Account
+## Setting Up Your Developer Account
 
 Before you can access the Twitter API you'll need to have a Twitter developer account.  You can apply for access as an academic researcher at the [Twitter Developer Portal](https://developer.twitter.com/en/solutions/academic-research/products-for-researchers).  This process usually take several days.
 
@@ -16,15 +16,20 @@ Once you've been granted access, you can login to your [Developer Dashboard](htt
 
 Be sure to copy down your keys and tokens into a text file where you can find them later. 
 
-### Python API Access with Tweepy
+## Accessing the API
 
-Tweepy is a Python library for accessing the Twitter API.  You can install Tweepy by following this [installation guide](https://docs.tweepy.org/en/latest/install.html).  
+Once we have developer credentials, there are several different tools that we can use to access the API.  Here are a few of them.
 
 ### Command Line API Access with Twurl
 
 Twurl is Twitter's version of curl, a library and tool for tranferring data using url syntax. You can install Twurl by folling this [installation guide](https://developer.twitter.com/en/docs/tutorials/using-twurl).
 
-
 ### Command Line API Access with twarc
 
 You can also access the Twitter API through the command line using [twarc](https://github.com/DocNow/twarc).  Twarc is part of the Documening the Now project, which is a collaborative effort to move towards better and more ethical archiving and preservation practices for social media data.  You can install twarc by following this [installation guide](https://twarc-project.readthedocs.io/en/latest/). 
+
+### Python API Access with Tweepy
+
+Tweepy is a Python library for accessing the Twitter API.  You can install Tweepy by following this [installation guide](https://docs.tweepy.org/en/latest/install.html).  
+
+
