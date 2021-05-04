@@ -1,0 +1,218 @@
+[
+    {
+        "id": 1483114580,
+        "id_str": "1483114580",
+        "name": "Dr. Anna Haensch",
+        "screen_name": "extremefriday",
+        "location": "Cambridge, MA",
+        "description": "Data Scientist at Tufts University Data Intensive Studies Center, former Assoc. Professor of Math at Duquesne University and Mass Media Fellow at NPR. She/Her.",
+        "url": "https://t.co/U9QfgWcdcU",
+        "entities": {
+            "url": {
+                "urls": [
+                    {
+                        "url": "https://t.co/U9QfgWcdcU",
+                        "expanded_url": "http://annahaensch.com",
+                        "display_url": "annahaensch.com",
+                        "indices": [
+                            0,
+                            23
+                        ]
+                    }
+                ]
+            },
+            "description": {
+                "urls": []
+            }
+        },
+        "protected": false,
+        "followers_count": 3379,
+        "friends_count": 367,
+        "listed_count": 97,
+        "created_at": "Tue Jun 04 19:48:34 +0000 2013",
+        "favourites_count": 1638,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": true,
+        "verified": false,
+        "statuses_count": 2697,
+        "lang": null,
+        "status": {
+            "created_at": "Tue May 04 11:33:28 +0000 2021",
+            "id": 1389543698300555265,
+            "id_str": "1389543698300555265",
+            "text": "@PamOliver1180 @honeypisquared Thanks, Pam!",
+            "truncated": false,
+            "entities": {
+                "hashtags": [],
+                "symbols": [],
+                "user_mentions": [
+                    {
+                        "screen_name": "PamOliver1180",
+                        "name": "Dr. Pamela Oliver (sociologist)",
+                        "id": 353153122,
+                        "id_str": "353153122",
+                        "indices": [
+                            0,
+                            14
+                        ]
+                    },
+                    {
+                        "screen_name": "honeypisquared",
+                        "name": "Lucy \ud83c\udff3\ufe0f\u200d\ud83c\udf08",
+                        "id": 284011134,
+                        "id_str": "284011134",
+                        "indices": [
+                            15,
+                            30
+                        ]
+                    }
+                ],
+                "urls": []
+            },
+            "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+            "in_reply_to_status_id": 1389413852966699013,
+            "in_reply_to_status_id_str": "1389413852966699013",
+            "in_reply_to_user_id": 353153122,
+            "in_reply_to_user_id_str": "353153122",
+            "in_reply_to_screen_name": "PamOliver1180",
+            "geo": null,
+            "coordinates": null,
+            "place": null,
+            "contributors": null,
+            "is_quote_status": false,
+            "retweet_count": 0,
+            "favorite_count": 0,
+            "favorited": false,
+            "retweeted": false,
+            "lang": "en"
+        },
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "DBDBDB",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme7/bg.gif",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme7/bg.gif",
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1034890571414994944/Kqb6lsLL_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1034890571414994944/Kqb6lsLL_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1483114580/1612381038",
+        "profile_link_color": "48558A",
+        "profile_sidebar_border_color": "FFFFFF",
+        "profile_sidebar_fill_color": "F3F3F3",
+        "profile_text_color": "333333",
+        "profile_use_background_image": false,
+        "has_extended_profile": false,
+        "default_profile": false,
+        "default_profile_image": false,
+        "following": true,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none",
+        "withheld_in_countries": []
+    },
+    {
+        "id": 874896877,
+        "id_str": "874896877",
+        "name": "Dionne Warwick",
+        "screen_name": "dionnewarwick",
+        "location": "",
+        "description": "I am not writing a bio.",
+        "url": "https://t.co/A2vDb05gVu",
+        "entities": {
+            "url": {
+                "urls": [
+                    {
+                        "url": "https://t.co/A2vDb05gVu",
+                        "expanded_url": "https://boxoffice.mandolin.com/pages/dionnewarwick?ls=QRELYY1fSQOtsWTDptXtiQ",
+                        "display_url": "boxoffice.mandolin.com/pages/dionnewa\u2026",
+                        "indices": [
+                            0,
+                            23
+                        ]
+                    }
+                ]
+            },
+            "description": {
+                "urls": []
+            }
+        },
+        "protected": false,
+        "followers_count": 530380,
+        "friends_count": 5329,
+        "listed_count": 923,
+        "created_at": "Fri Oct 12 03:58:27 +0000 2012",
+        "favourites_count": 1829,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": false,
+        "verified": true,
+        "statuses_count": 4952,
+        "lang": null,
+        "status": {
+            "created_at": "Tue May 04 20:02:15 +0000 2021",
+            "id": 1389671737311203328,
+            "id_str": "1389671737311203328",
+            "text": "\ud83e\udd0d\ud83e\udd0d\ud83e\udd0d\ud83e\udd0d https://t.co/5Wyxdm2W4s",
+            "truncated": false,
+            "entities": {
+                "hashtags": [],
+                "symbols": [],
+                "user_mentions": [],
+                "urls": [
+                    {
+                        "url": "https://t.co/5Wyxdm2W4s",
+                        "expanded_url": "https://twitter.com/hellmanns/status/1389670709560057867",
+                        "display_url": "twitter.com/hellmanns/stat\u2026",
+                        "indices": [
+                            5,
+                            28
+                        ]
+                    }
+                ]
+            },
+            "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+            "in_reply_to_status_id": null,
+            "in_reply_to_status_id_str": null,
+            "in_reply_to_user_id": null,
+            "in_reply_to_user_id_str": null,
+            "in_reply_to_screen_name": null,
+            "geo": null,
+            "coordinates": null,
+            "place": null,
+            "contributors": null,
+            "is_quote_status": true,
+            "quoted_status_id": 1389670709560057867,
+            "quoted_status_id_str": "1389670709560057867",
+            "retweet_count": 3,
+            "favorite_count": 80,
+            "favorited": false,
+            "retweeted": false,
+            "possibly_sensitive": false,
+            "lang": "und"
+        },
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "452D03",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme19/bg.gif",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme19/bg.gif",
+        "profile_background_tile": true,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1367231000028143619/BeYI9uX9_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1367231000028143619/BeYI9uX9_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/874896877/1607882427",
+        "profile_link_color": "113CEB",
+        "profile_sidebar_border_color": "000000",
+        "profile_sidebar_fill_color": "F6FFD1",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "has_extended_profile": false,
+        "default_profile": false,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none",
+        "withheld_in_countries": []
+    }
+]
