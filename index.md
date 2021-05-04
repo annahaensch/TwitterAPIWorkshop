@@ -20,6 +20,11 @@ Be sure to copy down your keys and tokens into a text file where you can find th
 
 Tweepy is a Python library for accessing the Twitter API.  You can install Tweepy by following this [installation guide](https://docs.tweepy.org/en/latest/install.html).  
 
+### Command Line API Access with Twurl
+
+Twurl is Twitter's version of curl, a library and tool for tranferring data using url syntax. You can install Twurl by folling this [installation guide](https://developer.twitter.com/en/docs/tutorials/using-twurl).
+
+
 ### Command Line API Access with twarc
 
-You can also access the Twitter API through the command line using [twarc](https://github.com/DocNow/twarc).  You can install twarc by following this [installation guide](https://twarc-project.readthedocs.io/en/latest/).  
+You can also access the Twitter API through the command line using [twarc](https://github.com/DocNow/twarc).  Twarc is part of the Documening the Now project, which is a collaborative effort to move towards better and more ethical archiving and preservation practices for social media data.  You can install twarc by following this [installation guide](https://twarc-project.readthedocs.io/en/latest/). 
