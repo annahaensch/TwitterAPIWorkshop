@@ -22,11 +22,11 @@ Once we have developer credentials, there are several different tools that we ca
 
 ### Command Line API Access
 
-* __Twurl__ is Twitter's version of curl, a library and tool for tranferring data using url syntax. You can install Twurl by folling this [installation guide](https://developer.twitter.com/en/docs/tutorials/using-twurl).
-* __Twarc__ is part of the Documening the Now project, which is a collaborative effort to move towards better and more ethical archiving and preservation practices for social media data.  You can also access the Twitter API through the command line using [twarc](https://github.com/DocNow/twarc).  You can install twarc by following this [installation guide](https://twarc-project.readthedocs.io/en/latest/). 
+* __Twurl__ is Twitter's version of curl, a library and tool for tranferring data using url syntax. [Twurl installation guide](https://developer.twitter.com/en/docs/tutorials/using-twurl)
+* __Twarc__ is part of the [Documening the Now](https://www.docnow.io/) project, which is a collaborative effort to move towards better and more ethical archiving and preservation practices for social media data.  You can also access the Twitter API through the command line using twarc.  [twarc installation guide](https://twarc-project.readthedocs.io/en/latest/) 
 
 ### Python API Access
 
-* __Tweepy__ is a Python library for accessing the Twitter API.  You can install Tweepy by following this [installation guide](https://docs.tweepy.org/en/latest/install.html).  
+* __Tweepy__ is a Python library for accessing the Twitter API. [Tweepy installation guide](https://docs.tweepy.org/en/latest/install.html).  
 
 
