@@ -34,4 +34,4 @@ Once we have developer credentials, there are several different tools that we ca
 
 * __Tweepy__ is a Python library for accessing the Twitter API.  You can easily access the Twitter API through Python scripts and Jupyter notebooks using Tweepy.  [_installation guide_](https://docs.tweepy.org/en/latest/install.html).  
 
-
+You can try out some of these tools by working through this [Google Colab Notebook](https://colab.research.google.com/drive/1NX2Bw5a22P2LVr5naClCGvojUCb6P6H0?usp=sharing) (_you'll need to supply your own developer credentials).
